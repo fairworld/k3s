@@ -1,4 +1,4 @@
-# CentOS7
+# CentOS 7
 - k3s 설치시 selinux 관련해서 사전에 설치가 필요함
 ```bash
 yum install policycoreutils-python -y
